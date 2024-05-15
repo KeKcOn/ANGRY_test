@@ -1,0 +1,1 @@
+STRING_FIELD_EMPTY_ERROR = 'Field "string" is required.'
