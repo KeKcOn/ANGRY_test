@@ -23,7 +23,7 @@
 2. hash:
 
     ```bash
-    GET /hash
+    POST /hash
     {
       "string": "test"
     }
